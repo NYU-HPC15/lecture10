@@ -10,6 +10,8 @@
  * or 2^{25} floats 100 times
  *
  *   ./reduction 33554432 100
+ *
+ * OpenCL implementation by Lucas Wilcox
  */
 
 #include <stdio.h>
